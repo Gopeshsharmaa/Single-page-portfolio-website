@@ -15,7 +15,6 @@ A clean and modern single-page portfolio built using HTML, CSS, and JavaScript. 
 ✅ Mobile-friendly layout
 
 📸 Screenshots
-Screenshot 2025-04-04 101010
 
 👨‍💻 Sections Included
 
@@ -36,11 +35,3 @@ HTML – Structure
 CSS – Styling and layout
 
 JavaScript – Interactivity and smooth scrolling
-
-📥 Installation
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/your-portfolio-repo.git 
