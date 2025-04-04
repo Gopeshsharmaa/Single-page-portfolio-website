@@ -10,15 +10,19 @@ A clean and modern personal portfolio built using HTML, CSS, and JavaScript. Exp
 
 ## 🛠️ Features  
 ✅ Single-page responsive layout
+
 ✅ Smooth scrolling and navigation
+
 ✅ Projects with live preview links
+
 ✅ Interactive and minimal UI
+
 ✅ Contact form for quick reach-out
 
 ## 📸 Screenshots  
 
 
-## 🎮 How to Play  
+## 📖 What You'll Find 
 🏠 Home: A warm welcome and intro
 
 🙋‍♂️ About Me: Quick overview of who I am
