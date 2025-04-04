@@ -3,7 +3,7 @@
 A clean and modern personal portfolio built using HTML, CSS, and JavaScript. Explore my work, skills, and contact details—all in one smooth scroll!
 
 ## 🚀 Live Demo  
-🔗 **[View Portfolio]()**  
+🔗 **[View Portfolio](https://gopeshsharmaa.github.io/Single-page-portfolio-website/)**  
 
 ## 📂 Repository  
 🔗 **[GitHub Repo](https://github.com/Gopeshsharmaa/Single-page-portfolio-website)**  
