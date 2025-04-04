@@ -6,7 +6,7 @@ A clean and modern personal portfolio built using HTML, CSS, and JavaScript. Exp
 🔗 **[View Portfolio]()**  
 
 ## 📂 Repository  
-🔗 **[GitHub Repo]()**  
+🔗 **[GitHub Repo](https://github.com/Gopeshsharmaa/Single-page-portfolio-website)**  
 
 ## 🛠️ Features  
 ✅ Single-page responsive layout
@@ -17,7 +17,6 @@ A clean and modern personal portfolio built using HTML, CSS, and JavaScript. Exp
 
 ## 📸 Screenshots  
 
-![Screenshot 2025-03-12 111035](https://github.com/user-attachments/assets/2bd1ee3f-76a3-4b89-9b49-64ba77931512)
 
 ## 🎮 How to Play  
 🏠 Home: A warm welcome and intro
