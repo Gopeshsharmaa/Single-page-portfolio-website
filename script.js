@@ -1,6 +1,6 @@
 const heading = document.getElementById("dynamic-heading");
 const messages = [
-   "Hello, I'm [Your Name]",
+   "Hello, I'm Gopesh Sharma",
    "Web Developer | Problem Solver",
    "Creative Coder & Learner"
  ];
